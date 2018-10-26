@@ -8,7 +8,7 @@ And enter the token that you have created in the scaleway account and mention th
 
 ### Get the details of your account via curl 
 
-`curl://account.scaleway.com/organizations -H "X-Auth-Token: your security token"
+`curl://account.scaleway.com/organizations -H "X-Auth-Token: your security token"`
 
 ### Then create a server_creation.tf file
 
